@@ -1,0 +1,243 @@
+"entity","code","first_year","last_year","observations"
+"Afghanistan","AFG",1961,2023,61
+"Africa (FAO)","",1961,2023,63
+"Albania","ALB",1961,2023,63
+"Algeria","DZA",1961,2023,63
+"Americas (FAO)","",1961,2023,63
+"Angola","AGO",1961,2023,62
+"Antigua and Barbuda","ATG",2002,2023,22
+"Argentina","ARG",1961,2023,63
+"Armenia","ARM",1992,2023,32
+"Aruba","ABW",2002,2023,22
+"Asia (FAO)","",1961,2023,63
+"Australia","AUS",1961,2023,63
+"Australia and New Zealand (FAO)","",1961,2023,63
+"Austria","AUT",1961,2023,63
+"Azerbaijan","AZE",1992,2023,32
+"Bahamas","BHS",1966,2021,45
+"Bahrain","BHR",1972,2022,48
+"Bangladesh","BGD",1961,2023,63
+"Barbados","BRB",1961,2023,63
+"Belarus","BLR",1992,2023,32
+"Belgium","BEL",2002,2023,22
+"Belgium-Luxembourg (FAO)","",1961,1999,39
+"Belize","BLZ",1961,2023,63
+"Benin","BEN",1961,2023,63
+"Bermuda","BMU",1985,2023,25
+"Bhutan","BTN",1974,2023,46
+"Bolivia","BOL",1961,2023,63
+"Bosnia and Herzegovina","BIH",1995,2023,29
+"Botswana","BWA",1961,2023,56
+"Brazil","BRA",1961,2023,63
+"Brunei","BRN",1980,2023,32
+"Bulgaria","BGR",1961,2023,63
+"Burkina Faso","BFA",1969,2023,55
+"Burundi","BDI",1966,2023,58
+"Cambodia","KHM",1961,2023,52
+"Cameroon","CMR",1961,2023,63
+"Canada","CAN",1961,2023,63
+"Cape Verde","CPV",1973,2023,38
+"Caribbean (FAO)","",1961,2023,63
+"Central African Republic","CAF",1961,2023,63
+"Central America (FAO)","",1961,2023,63
+"Central Asia (FAO)","",1992,2023,32
+"Chad","TCD",1961,2023,62
+"Chile","CHL",1961,2023,63
+"China","CHN",1961,2023,63
+"China (FAO)","",1961,2023,63
+"Colombia","COL",1961,2023,63
+"Comoros","COM",1991,2023,33
+"Congo","COG",1961,2023,58
+"Cook Islands","COK",2002,2023,22
+"Costa Rica","CRI",1961,2023,63
+"Cote d'Ivoire","CIV",1961,2023,63
+"Croatia","HRV",1992,2023,32
+"Cuba","CUB",1961,2023,63
+"Cyprus","CYP",1961,2023,63
+"Czechia","CZE",1993,2023,31
+"Czechoslovakia","OWID_CZS",1961,1992,32
+"Democratic Republic of Congo","COD",1961,2023,61
+"Denmark","DNK",1961,2023,63
+"Djibouti","DJI",1976,2023,30
+"Dominica","DMA",1976,2023,48
+"Dominican Republic","DOM",1961,2023,63
+"Eastern Africa (FAO)","",1961,2023,63
+"Eastern Asia (FAO)","",1961,2023,63
+"Eastern Europe (FAO)","",1961,2023,63
+"Ecuador","ECU",1961,2023,63
+"Egypt","EGY",1961,2023,63
+"El Salvador","SLV",1961,2023,63
+"Equatorial Guinea","GNQ",1961,2023,41
+"Eritrea","ERI",1993,2023,30
+"Estonia","EST",1992,2023,32
+"Eswatini","SWZ",1961,2023,63
+"Ethiopia","ETH",1993,2023,31
+"Ethiopia (former)","OWID_ERE",1961,1992,32
+"Europe (FAO)","",1961,2023,63
+"European Union (27)","OWID_EU27",1961,2023,63
+"Faroe Islands","FRO",2002,2023,22
+"Fiji","FJI",1961,2023,63
+"Finland","FIN",1961,2023,63
+"France","FRA",1961,2023,63
+"French Guiana","GUF",1978,2023,46
+"French Polynesia","PYF",1974,2023,50
+"Gabon","GAB",1972,2023,52
+"Gambia","GMB",1964,2023,59
+"Georgia","GEO",1992,2023,32
+"Germany","DEU",1961,2023,63
+"Ghana","GHA",1961,2023,63
+"Greece","GRC",1961,2023,63
+"Grenada","GRD",2002,2023,22
+"Guadeloupe","GLP",1961,2023,63
+"Guatemala","GTM",1961,2023,63
+"Guinea","GIN",1961,2023,62
+"Guinea-Bissau","GNB",1973,2023,47
+"Guyana","GUY",1961,2023,63
+"Haiti","HTI",1961,2023,63
+"Honduras","HND",1961,2023,63
+"Hong Kong","HKG",2002,2023,22
+"Hungary","HUN",1961,2023,63
+"Iceland","ISL",1961,2023,63
+"India","IND",1961,2023,63
+"Indonesia","IDN",1961,2023,63
+"Iran","IRN",1961,2023,63
+"Iraq","IRQ",1961,2023,63
+"Ireland","IRL",1961,2023,63
+"Israel","ISR",1961,2023,63
+"Italy","ITA",1961,2023,63
+"Jamaica","JAM",1961,2023,63
+"Japan","JPN",1961,2023,63
+"Jordan","JOR",1961,2023,63
+"Kazakhstan","KAZ",1992,2023,32
+"Kenya","KEN",1961,2023,63
+"Kiribati","KIR",2002,2023,22
+"Kuwait","KWT",1977,2023,45
+"Kyrgyzstan","KGZ",1992,2023,32
+"Land Locked Developing Countries (FAO)","",1961,2023,63
+"Laos","LAO",1963,2023,59
+"Latvia","LVA",1992,2023,32
+"Least Developed Countries (FAO)","",1961,2023,63
+"Lebanon","LBN",1961,2023,63
+"Lesotho","LSO",1961,2023,63
+"Liberia","LBR",1961,2023,52
+"Libya","LBY",1961,2023,63
+"Lithuania","LTU",1992,2023,32
+"Low Income Food Deficit Countries (FAO)","",1961,2023,63
+"Luxembourg","LUX",2002,2023,22
+"Madagascar","MDG",1961,2023,63
+"Malawi","MWI",1961,2023,63
+"Malaysia","MYS",1961,2023,63
+"Maldives","MDV",2002,2023,22
+"Mali","MLI",1961,2023,63
+"Malta","MLT",1961,2023,63
+"Martinique","MTQ",1961,2023,63
+"Mauritania","MRT",1973,2023,48
+"Mauritius","MUS",1961,2023,63
+"Melanesia (FAO)","",1961,2023,63
+"Mexico","MEX",1961,2023,63
+"Micronesia (FAO)","",2002,2023,22
+"Micronesia (country)","FSM",2002,2023,22
+"Middle Africa (FAO)","",1961,2023,63
+"Moldova","MDA",1992,2023,32
+"Mongolia","MNG",1970,2023,54
+"Montenegro","MNE",2006,2023,18
+"Morocco","MAR",1961,2023,63
+"Mozambique","MOZ",1961,2023,63
+"Myanmar","MMR",1961,2023,63
+"Namibia","NAM",1998,2023,26
+"Nauru","NRU",2012,2023,12
+"Nepal","NPL",1961,2023,63
+"Net Food Importing Developing Countries (FAO)","",1961,2023,63
+"Netherlands","NLD",1961,2023,63
+"New Caledonia","NCL",1975,2023,49
+"New Zealand","NZL",1961,2023,63
+"Nicaragua","NIC",1961,2023,63
+"Niger","NER",1964,2023,60
+"Nigeria","NGA",1961,2023,63
+"North Korea","PRK",1961,2023,63
+"North Macedonia","MKD",1994,2023,30
+"Northern Africa (FAO)","",1961,2023,63
+"Northern America (FAO)","",1961,2023,63
+"Northern Europe (FAO)","",1961,2023,63
+"Norway","NOR",1961,2023,63
+"Oceania (FAO)","",1961,2023,63
+"Oman","OMN",1973,2023,51
+"Pakistan","PAK",1961,2023,63
+"Palau","PLW",2002,2023,22
+"Palestine","PSE",2002,2023,22
+"Panama","PAN",1961,2023,63
+"Papua New Guinea","PNG",1961,2023,63
+"Paraguay","PRY",1961,2023,63
+"Peru","PER",1961,2023,63
+"Philippines","PHL",1961,2023,63
+"Poland","POL",1961,2023,63
+"Polynesia (FAO)","",1974,2023,50
+"Portugal","PRT",1961,2023,63
+"Puerto Rico","PRI",2002,2023,22
+"Qatar","QAT",1975,2023,49
+"Reunion","REU",1961,2023,63
+"Romania","ROU",1961,2023,63
+"Russia","RUS",1992,2023,32
+"Rwanda","RWA",1967,2023,55
+"Saint Kitts and Nevis","KNA",1961,2023,63
+"Saint Lucia","LCA",1961,2023,62
+"Saint Vincent and the Grenadines","VCT",1961,2023,63
+"Samoa","WSM",1975,2023,28
+"Sao Tome and Principe","STP",2002,2023,22
+"Saudi Arabia","SAU",1961,2023,63
+"Senegal","SEN",1961,2023,62
+"Serbia","SRB",2006,2023,18
+"Serbia and Montenegro","OWID_SRM",1992,2005,14
+"Seychelles","SYC",1982,2023,26
+"Sierra Leone","SLE",1966,2023,58
+"Singapore","SGP",1961,2023,63
+"Slovakia","SVK",1993,2023,31
+"Slovenia","SVN",1992,2023,32
+"Small Island Developing States (FAO)","",1961,2023,63
+"Solomon Islands","SLB",2002,2023,22
+"South Africa","ZAF",1961,2023,63
+"South America (FAO)","",1961,2023,63
+"South Korea","KOR",1961,2023,63
+"South Sudan","SSD",2012,2023,12
+"South-eastern Asia (FAO)","",1961,2023,63
+"Southern Africa (FAO)","",1961,2023,63
+"Southern Asia (FAO)","",1961,2023,63
+"Southern Europe (FAO)","",1961,2023,63
+"Spain","ESP",1961,2023,63
+"Sri Lanka","LKA",1961,2023,63
+"Sudan","SDN",2012,2023,12
+"Sudan (former)","OWID_SDN",1961,2011,51
+"Suriname","SUR",1961,2023,63
+"Sweden","SWE",1961,2023,63
+"Switzerland","CHE",1961,2023,63
+"Syria","SYR",1961,2023,63
+"Taiwan","TWN",2002,2023,22
+"Tajikistan","TJK",1992,2023,32
+"Tanzania","TZA",1961,2023,63
+"Thailand","THA",1961,2023,63
+"Togo","TGO",1969,2023,55
+"Tonga","TON",1982,2023,26
+"Trinidad and Tobago","TTO",1961,2023,63
+"Tunisia","TUN",1961,2023,63
+"Turkey","TUR",1961,2023,63
+"Turkmenistan","TKM",1992,2023,32
+"Tuvalu","TUV",2002,2023,22
+"USSR","OWID_USS",1961,1991,31
+"Uganda","UGA",1961,2023,59
+"Ukraine","UKR",1992,2023,32
+"United Arab Emirates","ARE",1972,2023,52
+"United Kingdom","GBR",1961,2023,63
+"United States","USA",1961,2023,63
+"Uruguay","URY",1961,2023,63
+"Uzbekistan","UZB",1992,2023,32
+"Vanuatu","VUT",2002,2023,22
+"Venezuela","VEN",1961,2023,63
+"Vietnam","VNM",1961,2023,63
+"Western Africa (FAO)","",1961,2023,63
+"Western Asia (FAO)","",1961,2023,63
+"Western Europe (FAO)","",1961,2023,63
+"World","OWID_WRL",1961,2023,63
+"Yemen","YEM",1966,2023,58
+"Yugoslavia","OWID_YGS",1961,1991,31
+"Zambia","ZMB",1961,2023,63
+"Zimbabwe","ZWE",1961,2023,63

@@ -1,0 +1,27 @@
+[1] "Model: nitrogen_kg_ha = alpha + beta * t + error"
+[1] "Coding: t = 0 in 1961 and t = 62 in 2023"
+[1] ""
+
+Call:
+lm(formula = nitrogen_kg_ha ~ t, data = world)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.7327 -2.4352 -0.2568  2.1433  9.6229 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 15.01829    1.11858   13.43   <2e-16 ***
+t            0.96810    0.03112   31.11   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.492 on 61 degrees of freedom
+Multiple R-squared:  0.9407,	Adjusted R-squared:  0.9397 
+F-statistic: 967.5 on 1 and 61 DF,  p-value: < 2.2e-16
+
+[1] ""
+[1] "95 percent confidence intervals:"
+                 2.5 %   97.5 %
+(Intercept) 12.7815558 17.25502
+t            0.9058688  1.03034

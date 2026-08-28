@@ -1,0 +1,631 @@
+"Entity","Code","Year","nitrogen_kg_ha"
+"Australia","AUS",1961,2.17
+"Australia","AUS",1962,2.51
+"Australia","AUS",1963,4.06
+"Australia","AUS",1964,3.5
+"Australia","AUS",1965,3.6
+"Australia","AUS",1966,4.05
+"Australia","AUS",1967,6.01
+"Australia","AUS",1968,5.85
+"Australia","AUS",1969,5.69
+"Australia","AUS",1970,5.94
+"Australia","AUS",1971,6.56
+"Australia","AUS",1972,8.7
+"Australia","AUS",1973,10.27
+"Australia","AUS",1974,10.69
+"Australia","AUS",1975,10.93
+"Australia","AUS",1976,12.77
+"Australia","AUS",1977,10.61
+"Australia","AUS",1978,11.52
+"Australia","AUS",1979,12.64
+"Australia","AUS",1980,12.43
+"Australia","AUS",1981,12.23
+"Australia","AUS",1982,11.84
+"Australia","AUS",1983,14.13
+"Australia","AUS",1984,14.13
+"Australia","AUS",1985,14.48
+"Australia","AUS",1986,14.35
+"Australia","AUS",1987,16.53
+"Australia","AUS",1988,19.25
+"Australia","AUS",1989,22.38
+"Australia","AUS",1990,23.08
+"Australia","AUS",1991,23.94
+"Australia","AUS",1992,26.78
+"Australia","AUS",1993,29.42
+"Australia","AUS",1994,29.09
+"Australia","AUS",1995,35.46
+"Australia","AUS",1996,38.24
+"Australia","AUS",1997,35.75
+"Australia","AUS",1998,40.8
+"Australia","AUS",1999,41.86
+"Australia","AUS",2000,36.01
+"Australia","AUS",2001,37.95
+"Australia","AUS",2002,36.37
+"Australia","AUS",2003,35.61
+"Australia","AUS",2004,36.46
+"Australia","AUS",2005,32.05
+"Australia","AUS",2006,31.44
+"Australia","AUS",2007,32.44
+"Australia","AUS",2008,30.83
+"Australia","AUS",2009,27.8
+"Australia","AUS",2010,34.03
+"Australia","AUS",2011,30.83
+"Australia","AUS",2012,31.64
+"Australia","AUS",2013,34.79
+"Australia","AUS",2014,39.13
+"Australia","AUS",2015,37.34
+"Australia","AUS",2016,43.67
+"Australia","AUS",2017,43.27
+"Australia","AUS",2018,40.57
+"Australia","AUS",2019,38.93
+"Australia","AUS",2020,52.43
+"Australia","AUS",2021,58.63
+"Australia","AUS",2022,54.67
+"Australia","AUS",2023,61.68
+"France","FRA",1961,26.27
+"France","FRA",1962,28.82
+"France","FRA",1963,33.5
+"France","FRA",1964,37.18
+"France","FRA",1965,38.14
+"France","FRA",1966,44.08
+"France","FRA",1967,51.46
+"France","FRA",1968,57.96
+"France","FRA",1969,57.99
+"France","FRA",1970,68.48
+"France","FRA",1971,73.43
+"France","FRA",1972,76.71
+"France","FRA",1973,88.22
+"France","FRA",1974,74.09
+"France","FRA",1975,81.09
+"France","FRA",1976,87.18
+"France","FRA",1977,87.52
+"France","FRA",1978,93.82
+"France","FRA",1979,101.54
+"France","FRA",1980,102.37
+"France","FRA",1981,104.34
+"France","FRA",1982,103.9
+"France","FRA",1983,109.74
+"France","FRA",1984,109.86
+"France","FRA",1985,112.63
+"France","FRA",1986,119.76
+"France","FRA",1987,118.27
+"France","FRA",1988,123.06
+"France","FRA",1989,126.48
+"France","FRA",1990,118.08
+"France","FRA",1991,121.45
+"France","FRA",1992,101.76
+"France","FRA",1993,104
+"France","FRA",1994,107.73
+"France","FRA",1995,111.25
+"France","FRA",1996,117.28
+"France","FRA",1997,116.46
+"France","FRA",1998,115.06
+"France","FRA",1999,118.7
+"France","FRA",2000,106.93
+"France","FRA",2001,110.74
+"France","FRA",2002,101.69
+"France","FRA",2003,109.8
+"France","FRA",2004,107.38
+"France","FRA",2005,101.83
+"France","FRA",2006,102.09
+"France","FRA",2007,111.67
+"France","FRA",2008,97.78
+"France","FRA",2009,88.72
+"France","FRA",2010,95.21
+"France","FRA",2011,90.76
+"France","FRA",2012,94.5
+"France","FRA",2013,101.11
+"France","FRA",2014,100.55
+"France","FRA",2015,103.56
+"France","FRA",2016,101.95
+"France","FRA",2017,108.54
+"France","FRA",2018,102.07
+"France","FRA",2019,96.05
+"France","FRA",2020,104.38
+"France","FRA",2021,98.93
+"France","FRA",2022,86.57
+"France","FRA",2023,87.04
+"Japan","JPN",1961,84.31
+"Japan","JPN",1962,87.65
+"Japan","JPN",1963,91.34
+"Japan","JPN",1964,88.62
+"Japan","JPN",1965,92.01
+"Japan","JPN",1966,99.48
+"Japan","JPN",1967,104.53
+"Japan","JPN",1968,105.17
+"Japan","JPN",1969,102.89
+"Japan","JPN",1970,94.99
+"Japan","JPN",1971,94.2
+"Japan","JPN",1972,103.17
+"Japan","JPN",1973,116.34
+"Japan","JPN",1974,98.42
+"Japan","JPN",1975,93.74
+"Japan","JPN",1976,101.45
+"Japan","JPN",1977,103.86
+"Japan","JPN",1978,105.28
+"Japan","JPN",1979,113.55
+"Japan","JPN",1980,89.95
+"Japan","JPN",1981,94.52
+"Japan","JPN",1982,100.7
+"Japan","JPN",1983,103.64
+"Japan","JPN",1984,103.37
+"Japan","JPN",1985,101.13
+"Japan","JPN",1986,103.47
+"Japan","JPN",1987,100.22
+"Japan","JPN",1988,96.29
+"Japan","JPN",1989,97.14
+"Japan","JPN",1990,93.38
+"Japan","JPN",1991,88.55
+"Japan","JPN",1992,88.6
+"Japan","JPN",1993,93.68
+"Japan","JPN",1994,91.35
+"Japan","JPN",1995,83.76
+"Japan","JPN",1996,81.97
+"Japan","JPN",1997,80.05
+"Japan","JPN",1998,77.64
+"Japan","JPN",1999,78.83
+"Japan","JPN",2000,80.73
+"Japan","JPN",2001,80.78
+"Japan","JPN",2002,79.48
+"Japan","JPN",2003,83.37
+"Japan","JPN",2004,80.54
+"Japan","JPN",2005,80.3
+"Japan","JPN",2006,77.68
+"Japan","JPN",2007,82.38
+"Japan","JPN",2008,62.21
+"Japan","JPN",2009,60.75
+"Japan","JPN",2010,71.31
+"Japan","JPN",2011,67.88
+"Japan","JPN",2012,69.75
+"Japan","JPN",2013,64.7
+"Japan","JPN",2014,70.08
+"Japan","JPN",2015,63.9
+"Japan","JPN",2016,68.03
+"Japan","JPN",2017,69.4
+"Japan","JPN",2018,66.86
+"Japan","JPN",2019,65.03
+"Japan","JPN",2020,64.94
+"Japan","JPN",2021,64.2
+"Japan","JPN",2022,62.45
+"Japan","JPN",2023,62.85
+"South Korea","KOR",1961,103.51
+"South Korea","KOR",1962,96.95
+"South Korea","KOR",1963,95.82
+"South Korea","KOR",1964,79.79
+"South Korea","KOR",1965,89.17
+"South Korea","KOR",1966,104.53
+"South Korea","KOR",1967,120.05
+"South Korea","KOR",1968,123.29
+"South Korea","KOR",1969,138.52
+"South Korea","KOR",1970,154.72
+"South Korea","KOR",1971,152.88
+"South Korea","KOR",1972,166.18
+"South Korea","KOR",1973,183.51
+"South Korea","KOR",1974,199.9
+"South Korea","KOR",1975,208.78
+"South Korea","KOR",1976,161.43
+"South Korea","KOR",1977,173.86
+"South Korea","KOR",1978,207.75
+"South Korea","KOR",1979,201.13
+"South Korea","KOR",1980,203.65
+"South Korea","KOR",1981,197.37
+"South Korea","KOR",1982,141.56
+"South Korea","KOR",1983,169.54
+"South Korea","KOR",1984,186.62
+"South Korea","KOR",1985,198.74
+"South Korea","KOR",1986,203.36
+"South Korea","KOR",1987,209.47
+"South Korea","KOR",1988,215.2
+"South Korea","KOR",1989,237.77
+"South Korea","KOR",1990,239.64
+"South Korea","KOR",1991,226.45
+"South Korea","KOR",1992,235.07
+"South Korea","KOR",1993,232.26
+"South Korea","KOR",1994,233.64
+"South Korea","KOR",1995,240.82
+"South Korea","KOR",1996,234.4
+"South Korea","KOR",1997,263.51
+"South Korea","KOR",1998,236.13
+"South Korea","KOR",1999,225.54
+"South Korea","KOR",2000,214.56
+"South Korea","KOR",2001,198.28
+"South Korea","KOR",2002,191.08
+"South Korea","KOR",2003,195.54
+"South Korea","KOR",2004,210.2
+"South Korea","KOR",2005,228.78
+"South Korea","KOR",2006,170.51
+"South Korea","KOR",2007,194.94
+"South Korea","KOR",2008,162.88
+"South Korea","KOR",2009,130.1
+"South Korea","KOR",2010,125.56
+"South Korea","KOR",2011,130.38
+"South Korea","KOR",2012,134.14
+"South Korea","KOR",2013,130.89
+"South Korea","KOR",2014,130.73
+"South Korea","KOR",2015,126.33
+"South Korea","KOR",2016,130.53
+"South Korea","KOR",2017,129.26
+"South Korea","KOR",2018,135.43
+"South Korea","KOR",2019,133.89
+"South Korea","KOR",2020,146.49
+"South Korea","KOR",2021,137.19
+"South Korea","KOR",2022,158.56
+"South Korea","KOR",2023,139.82
+"United States","USA",1961,12.96
+"United States","USA",1962,15.18
+"United States","USA",1963,16.85
+"United States","USA",1964,18.34
+"United States","USA",1965,20.69
+"United States","USA",1966,23.69
+"United States","USA",1967,26.91
+"United States","USA",1968,27.4
+"United States","USA",1969,27.71
+"United States","USA",1970,30.14
+"United States","USA",1971,30.8
+"United States","USA",1972,31.46
+"United States","USA",1973,34.11
+"United States","USA",1974,33.87
+"United States","USA",1975,37.84
+"United States","USA",1976,40.76
+"United States","USA",1977,39.25
+"United States","USA",1978,39.84
+"United States","USA",1979,42.56
+"United States","USA",1980,44.75
+"United States","USA",1981,43
+"United States","USA",1982,37.24
+"United States","USA",1983,39.93
+"United States","USA",1984,43.44
+"United States","USA",1985,41.21
+"United States","USA",1986,39.31
+"United States","USA",1987,40.24
+"United States","USA",1988,40.84
+"United States","USA",1989,42.19
+"United States","USA",1990,43.35
+"United States","USA",1991,44.04
+"United States","USA",1992,44.48
+"United States","USA",1993,47.99
+"United States","USA",1994,47.39
+"United States","USA",1995,47.73
+"United States","USA",1996,49.38
+"United States","USA",1997,49.67
+"United States","USA",1998,50.22
+"United States","USA",1999,50.43
+"United States","USA",2000,48.09
+"United States","USA",2001,48.3
+"United States","USA",2002,49.95
+"United States","USA",2003,54.51
+"United States","USA",2004,52.29
+"United States","USA",2005,51.73
+"United States","USA",2006,57.43
+"United States","USA",2007,55.43
+"United States","USA",2008,50.99
+"United States","USA",2009,54.88
+"United States","USA",2010,57.97
+"United States","USA",2011,61.52
+"United States","USA",2012,62.14
+"United States","USA",2013,60.97
+"United States","USA",2014,59.46
+"United States","USA",2015,59.39
+"United States","USA",2016,58.26
+"United States","USA",2017,57.75
+"United States","USA",2018,59.72
+"United States","USA",2019,59.49
+"United States","USA",2020,60.76
+"United States","USA",2021,60.17
+"United States","USA",2022,59.08
+"United States","USA",2023,59.08
+"Brazil","BRA",1961,1.58
+"Brazil","BRA",1962,1.42
+"Brazil","BRA",1963,1.72
+"Brazil","BRA",1964,1.38
+"Brazil","BRA",1965,1.89
+"Brazil","BRA",1966,1.88
+"Brazil","BRA",1967,2.77
+"Brazil","BRA",1968,3.7
+"Brazil","BRA",1969,4.15
+"Brazil","BRA",1970,6.93
+"Brazil","BRA",1971,6.7
+"Brazil","BRA",1972,9.6
+"Brazil","BRA",1973,7.86
+"Brazil","BRA",1974,8.54
+"Brazil","BRA",1975,8.66
+"Brazil","BRA",1976,9.88
+"Brazil","BRA",1977,12.99
+"Brazil","BRA",1978,12.23
+"Brazil","BRA",1979,12.78
+"Brazil","BRA",1980,14.05
+"Brazil","BRA",1981,10.19
+"Brazil","BRA",1982,9.64
+"Brazil","BRA",1983,8.4
+"Brazil","BRA",1984,11.83
+"Brazil","BRA",1985,11.95
+"Brazil","BRA",1986,14.35
+"Brazil","BRA",1987,14.3
+"Brazil","BRA",1988,12.43
+"Brazil","BRA",1989,12.51
+"Brazil","BRA",1990,12.7
+"Brazil","BRA",1991,13.55
+"Brazil","BRA",1992,14.04
+"Brazil","BRA",1993,18.56
+"Brazil","BRA",1994,21.39
+"Brazil","BRA",1995,20.48
+"Brazil","BRA",1996,22.05
+"Brazil","BRA",1997,24.88
+"Brazil","BRA",1998,26.26
+"Brazil","BRA",1999,27.72
+"Brazil","BRA",2000,27.36
+"Brazil","BRA",2001,26.44
+"Brazil","BRA",2002,31.35
+"Brazil","BRA",2003,35.54
+"Brazil","BRA",2004,39.99
+"Brazil","BRA",2005,33.21
+"Brazil","BRA",2006,34.84
+"Brazil","BRA",2007,45.76
+"Brazil","BRA",2008,41.55
+"Brazil","BRA",2009,35.63
+"Brazil","BRA",2010,45.13
+"Brazil","BRA",2011,55.56
+"Brazil","BRA",2012,50.02
+"Brazil","BRA",2013,58.61
+"Brazil","BRA",2014,65
+"Brazil","BRA",2015,50.04
+"Brazil","BRA",2016,51.68
+"Brazil","BRA",2017,64.56
+"Brazil","BRA",2018,65.12
+"Brazil","BRA",2019,69.65
+"Brazil","BRA",2020,83.85
+"Brazil","BRA",2021,95.08
+"Brazil","BRA",2022,96.18
+"Brazil","BRA",2023,90.92
+"China","CHN",1961,5.21
+"China","CHN",1962,7.78
+"China","CHN",1963,9.37
+"China","CHN",1964,12.04
+"China","CHN",1965,17.68
+"China","CHN",1966,25.88
+"China","CHN",1967,19.05
+"China","CHN",1968,20.96
+"China","CHN",1969,25.83
+"China","CHN",1970,33.16
+"China","CHN",1971,33.28
+"China","CHN",1972,38.26
+"China","CHN",1973,44.3
+"China","CHN",1974,38.07
+"China","CHN",1975,50.54
+"China","CHN",1976,47.74
+"China","CHN",1977,71.09
+"China","CHN",1978,93.37
+"China","CHN",1979,107.11
+"China","CHN",1980,121.97
+"China","CHN",1981,115.28
+"China","CHN",1982,116.9
+"China","CHN",1983,123.84
+"China","CHN",1984,128.86
+"China","CHN",1985,110.71
+"China","CHN",1986,107.32
+"China","CHN",1987,132.11
+"China","CHN",1988,144.41
+"China","CHN",1989,145.38
+"China","CHN",1990,148.96
+"China","CHN",1991,150.86
+"China","CHN",1992,155.54
+"China","CHN",1993,138.49
+"China","CHN",1994,147.38
+"China","CHN",1995,182.93
+"China","CHN",1996,194.36
+"China","CHN",1997,176.48
+"China","CHN",1998,176
+"China","CHN",1999,185.65
+"China","CHN",2000,170.25
+"China","CHN",2001,171.65
+"China","CHN",2002,190.82
+"China","CHN",2003,191.15
+"China","CHN",2004,198.11
+"China","CHN",2005,200.26
+"China","CHN",2006,203.92
+"China","CHN",2007,208.51
+"China","CHN",2008,210.63
+"China","CHN",2009,213.92
+"China","CHN",2010,219.35
+"China","CHN",2011,225.06
+"China","CHN",2012,230.1
+"China","CHN",2013,232.68
+"China","CHN",2014,235.38
+"China","CHN",2015,235.31
+"China","CHN",2016,233.54
+"China","CHN",2017,228.38
+"China","CHN",2018,218.81
+"China","CHN",2019,209.11
+"China","CHN",2020,201.47
+"China","CHN",2021,196.74
+"China","CHN",2022,191.55
+"China","CHN",2023,192.39
+"India","IND",1961,1.55
+"India","IND",1962,2.05
+"India","IND",1963,2.33
+"India","IND",1964,3.42
+"India","IND",1965,3.54
+"India","IND",1966,4.53
+"India","IND",1967,6.32
+"India","IND",1968,7.34
+"India","IND",1969,8.24
+"India","IND",1970,8.96
+"India","IND",1971,10.93
+"India","IND",1972,11.15
+"India","IND",1973,11.02
+"India","IND",1974,10.6
+"India","IND",1975,16.47
+"India","IND",1976,14.71
+"India","IND",1977,17.44
+"India","IND",1978,20.33
+"India","IND",1979,20.77
+"India","IND",1980,21.87
+"India","IND",1981,24.16
+"India","IND",1982,23.96
+"India","IND",1983,27.52
+"India","IND",1984,31.48
+"India","IND",1985,33.96
+"India","IND",1986,38.54
+"India","IND",1987,33.6
+"India","IND",1988,42.26
+"India","IND",1989,42.07
+"India","IND",1990,44.47
+"India","IND",1991,47.28
+"India","IND",1992,49.57
+"India","IND",1993,51.55
+"India","IND",1994,55.82
+"India","IND",1995,57.81
+"India","IND",1996,60.85
+"India","IND",1997,64.09
+"India","IND",1998,66.78
+"India","IND",1999,68.1
+"India","IND",2000,64.19
+"India","IND",2001,66.6
+"India","IND",2002,61.57
+"India","IND",2003,65.24
+"India","IND",2004,68.94
+"India","IND",2005,74.99
+"India","IND",2006,81.2
+"India","IND",2007,85.21
+"India","IND",2008,87.75
+"India","IND",2009,91.67
+"India","IND",2010,97.21
+"India","IND",2011,102.54
+"India","IND",2012,99.33
+"India","IND",2013,98.85
+"India","IND",2014,100.02
+"India","IND",2015,102.54
+"India","IND",2016,98.84
+"India","IND",2017,100.41
+"India","IND",2018,104.45
+"India","IND",2019,111.84
+"India","IND",2020,121.42
+"India","IND",2021,115.91
+"India","IND",2022,120.11
+"India","IND",2023,121.53
+"Nigeria","NGA",1961,0.01
+"Nigeria","NGA",1962,0.01
+"Nigeria","NGA",1963,0.02
+"Nigeria","NGA",1964,0.04
+"Nigeria","NGA",1965,0.07
+"Nigeria","NGA",1966,0.17
+"Nigeria","NGA",1967,0.15
+"Nigeria","NGA",1968,0.14
+"Nigeria","NGA",1969,0.12
+"Nigeria","NGA",1970,0.09
+"Nigeria","NGA",1971,0.13
+"Nigeria","NGA",1972,0.32
+"Nigeria","NGA",1973,0.16
+"Nigeria","NGA",1974,0.46
+"Nigeria","NGA",1975,1.05
+"Nigeria","NGA",1976,1.21
+"Nigeria","NGA",1977,1.2
+"Nigeria","NGA",1978,1.19
+"Nigeria","NGA",1979,2.1
+"Nigeria","NGA",1980,3.08
+"Nigeria","NGA",1981,3.21
+"Nigeria","NGA",1982,3.4
+"Nigeria","NGA",1983,3.96
+"Nigeria","NGA",1984,3.91
+"Nigeria","NGA",1985,3.52
+"Nigeria","NGA",1986,3.86
+"Nigeria","NGA",1987,3.44
+"Nigeria","NGA",1988,4.83
+"Nigeria","NGA",1989,5.66
+"Nigeria","NGA",1990,6.55
+"Nigeria","NGA",1991,6.37
+"Nigeria","NGA",1992,6.38
+"Nigeria","NGA",1993,6.3
+"Nigeria","NGA",1994,5.18
+"Nigeria","NGA",1995,2.62
+"Nigeria","NGA",1996,2.74
+"Nigeria","NGA",1997,2.01
+"Nigeria","NGA",1998,2.54
+"Nigeria","NGA",1999,2.64
+"Nigeria","NGA",2000,2.59
+"Nigeria","NGA",2001,3.53
+"Nigeria","NGA",2002,3
+"Nigeria","NGA",2003,4.01
+"Nigeria","NGA",2004,2.78
+"Nigeria","NGA",2005,5.06
+"Nigeria","NGA",2006,5.18
+"Nigeria","NGA",2007,1.67
+"Nigeria","NGA",2008,2.97
+"Nigeria","NGA",2009,2.3
+"Nigeria","NGA",2010,6.22
+"Nigeria","NGA",2011,3.28
+"Nigeria","NGA",2012,4.54
+"Nigeria","NGA",2013,6.41
+"Nigeria","NGA",2014,5.75
+"Nigeria","NGA",2015,4.65
+"Nigeria","NGA",2016,6.83
+"Nigeria","NGA",2017,10.68
+"Nigeria","NGA",2018,10.17
+"Nigeria","NGA",2019,10.07
+"Nigeria","NGA",2020,13.55
+"Nigeria","NGA",2021,9.76
+"Nigeria","NGA",2022,2.77
+"Nigeria","NGA",2023,1.99
+"Pakistan","PAK",1961,1.36
+"Pakistan","PAK",1962,1.33
+"Pakistan","PAK",1963,2.19
+"Pakistan","PAK",1964,2.68
+"Pakistan","PAK",1965,2.15
+"Pakistan","PAK",1966,3.32
+"Pakistan","PAK",1967,5.46
+"Pakistan","PAK",1968,6.33
+"Pakistan","PAK",1969,8.88
+"Pakistan","PAK",1970,8.15
+"Pakistan","PAK",1971,11.28
+"Pakistan","PAK",1972,12.66
+"Pakistan","PAK",1973,10.89
+"Pakistan","PAK",1974,11.81
+"Pakistan","PAK",1975,14.29
+"Pakistan","PAK",1976,16.64
+"Pakistan","PAK",1977,17.92
+"Pakistan","PAK",1978,21.78
+"Pakistan","PAK",1979,24.76
+"Pakistan","PAK",1980,26.02
+"Pakistan","PAK",1981,26.43
+"Pakistan","PAK",1982,28.47
+"Pakistan","PAK",1983,29.11
+"Pakistan","PAK",1984,28.75
+"Pakistan","PAK",1985,35.12
+"Pakistan","PAK",1986,43.59
+"Pakistan","PAK",1987,40.47
+"Pakistan","PAK",1988,43.64
+"Pakistan","PAK",1989,47.56
+"Pakistan","PAK",1990,48.72
+"Pakistan","PAK",1991,48.33
+"Pakistan","PAK",1992,53.86
+"Pakistan","PAK",1993,53.96
+"Pakistan","PAK",1994,56.45
+"Pakistan","PAK",1995,64.17
+"Pakistan","PAK",1996,63.68
+"Pakistan","PAK",1997,65.92
+"Pakistan","PAK",1998,65.86
+"Pakistan","PAK",1999,69.85
+"Pakistan","PAK",2000,71.44
+"Pakistan","PAK",2001,71.68
+"Pakistan","PAK",2002,74.8
+"Pakistan","PAK",2003,77.13
+"Pakistan","PAK",2004,82.79
+"Pakistan","PAK",2005,91.03
+"Pakistan","PAK",2006,92.15
+"Pakistan","PAK",2007,87.51
+"Pakistan","PAK",2008,96.59
+"Pakistan","PAK",2009,114.01
+"Pakistan","PAK",2010,108.15
+"Pakistan","PAK",2011,103.03
+"Pakistan","PAK",2012,91.77
+"Pakistan","PAK",2013,103.57
+"Pakistan","PAK",2014,100.45
+"Pakistan","PAK",2015,101.29
+"Pakistan","PAK",2016,101.97
+"Pakistan","PAK",2017,107.71
+"Pakistan","PAK",2018,107.87
+"Pakistan","PAK",2019,112.09
+"Pakistan","PAK",2020,111.57
+"Pakistan","PAK",2021,119.78
+"Pakistan","PAK",2022,118.49
+"Pakistan","PAK",2023,122.88
